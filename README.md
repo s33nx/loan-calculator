@@ -1,4 +1,3 @@
-# loan-calculator
 # Loan Calculator 💰
 
 A simple and interactive **Loan Calculator App** built with HTML, CSS (Bootstrap), and JavaScript.  
